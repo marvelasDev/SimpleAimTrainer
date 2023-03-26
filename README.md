@@ -1,2 +1,2 @@
 # SimpleAimTrainer
-Quick 10-second practice minigame to help improve your mouse aim
+Quick 10-second minigame to help practice and improve your FPS mouse aim
